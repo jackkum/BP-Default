@@ -1,6 +1,7 @@
 
 {
     "name": "jackkum/BP-Default",
+    "version": "2.4.0",
     "type": "wordpress-theme",
     "require": {
         "composer/installers": "~1.0"
